@@ -46,3 +46,8 @@ _Last initialized: 2026-08-30._
 ## Avatar State and animation production — October 3, 2026
 
 The [repository integration contract](docs/integration/VISIONWEAVER-AVATAR-STATE-ANIMATION-CONTRACT.md) links Avatar State v1.1 and children's animation/teaching v1.0: three boards, reconciled coverage, actual avatar references, scoped changes, perception/contact/reaction timing, world/camera anchors, vehicle/enclosure continuity and evidence-based acceptance. Documentation is synchronized; camera calibration and runtime/production verification remain open.
+
+
+## Current VisionWeaver orchestration target — October 4, 2026
+
+See [current workstate](docs/integration/CURRENT-WORKSTATE-2026-10-04.md) for the Avatar State → World State → Continuity Capsule → continuation/stitching validation sequence, rights-aware Global Reference Catalog execution rules, and the longer-term autonomous production loop under Architect approval.
