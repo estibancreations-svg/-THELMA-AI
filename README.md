@@ -43,3 +43,6 @@ Primary Drive source: `THELMA-CANONICAL-RECOVERY-PACKAGE.md` in Drive `02-THELMA
 Additional source: `THELMA_CANONICAL_RECOVERY_PACKAGE_2026-08-08` and `SOURCE - T.H.E.L.M.A Directives.docx`.
 
 _Last initialized: 2026-08-30._
+## Avatar State and animation production — October 3, 2026
+
+The [repository integration contract](docs/integration/VISIONWEAVER-AVATAR-STATE-ANIMATION-CONTRACT.md) links Avatar State v1.1 and children's animation/teaching v1.0: three boards, reconciled coverage, actual avatar references, scoped changes, perception/contact/reaction timing, world/camera anchors, vehicle/enclosure continuity and evidence-based acceptance. Documentation is synchronized; camera calibration and runtime/production verification remain open.
