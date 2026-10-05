@@ -51,3 +51,8 @@ The [repository integration contract](docs/integration/VISIONWEAVER-AVATAR-STATE
 ## Current VisionWeaver orchestration target — October 4, 2026
 
 See [current workstate](docs/integration/CURRENT-WORKSTATE-2026-10-04.md) for the Avatar State → World State → Continuity Capsule → continuation/stitching validation sequence, rights-aware Global Reference Catalog execution rules, and the longer-term autonomous production loop under Architect approval.
+
+
+## System repair and monitoring protocol — October 5, 2026
+
+The [Repair, Review & White-Blood-Cell Protocol](docs/operations/REPAIR-REVIEW-WHITE-BLOOD-CELL-PROTOCOL.md) defines the repair-cell roster, evidence packet, exact-SHA Quality Gate proof bundle, approved air-gap behavior, and the DESIGN_STUDIO Quality Gate evidence case. It is the operational training contract for Dashboard-connected incident diagnosis, repair planning, review, release witnessing, and monitoring.
