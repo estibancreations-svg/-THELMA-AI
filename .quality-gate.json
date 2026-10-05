@@ -1,0 +1,14 @@
+{
+  "repository": "estibancreations-svg/-THELMA-AI",
+  "scope": "documentation/catalog integrity; live production remains unverified",
+  "required_files": [
+    "README.md",
+    "docs/integration/VISIONWEAVER-WORLD-PHYSICS-CONTRACT.md"
+  ],
+  "jsonc_files": [
+    "tsconfig.json",
+    "tsconfig.app.json",
+    "tsconfig.node.json",
+    "deno.json"
+  ]
+}
